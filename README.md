@@ -1,4 +1,4 @@
-# KaninoRD
+# KninoRD
 
 Repositorio principal de **Guillermo Emigdio Miniño Álvarez**
 Kninord Animal Training · Villa Soñador, Bonao, República Dominicana
